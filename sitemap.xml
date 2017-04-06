@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://siebel.blog/archives/this-is-my-3rd-post/</loc>
+    <loc>http://siebel.blog/archives/modo-aquarum/</loc>
     
-    <lastmod>2017-04-04T16:29:59.962Z</lastmod>
+    <lastmod>2017-04-06T02:17:01.127Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://siebel.blog/archives/utram-tandem-linguam/</loc>
+    
+    <lastmod>2017-04-06T02:16:19.024Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://siebel.blog/archives/aures-cognataque-et-quidem/</loc>
+    
+    <lastmod>2017-04-06T02:15:07.408Z</lastmod>
     
   </url>
   
@@ -12,20 +26,6 @@
     <loc>http://siebel.blog/comments/index.html</loc>
     
     <lastmod>2017-04-03T03:45:49.455Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://siebel.blog/archives/hello-world/</loc>
-    
-    <lastmod>2017-04-02T23:43:56.924Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://siebel.blog/archives/another-post/</loc>
-    
-    <lastmod>2017-04-02T23:43:48.581Z</lastmod>
     
   </url>
   
